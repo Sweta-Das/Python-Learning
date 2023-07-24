@@ -1,7 +1,7 @@
 # Python-Programming-Practice
-Python Course from Edureka <br/>
-https://youtu.be/WGJJIrtnfpk
+### Python Course from Edureka <br/>
 ----------------------------------------------------------------------------------
+Link: https://youtu.be/WGJJIrtnfpk
 <br/>
 Python is a high-level, interpreted, and general-purpose programming language known for its simplicity, readability, and versatility. It was created by Guido van Rossum in 1991. It has easy syntax (i.e., uses whitespace indentations instead of braces/parentheses to distinguish codes), and dynamic semantics (initializes variables as per requirement). It is called an interpreted language because it's compiled line-by-line, though it may be slower than other programming languages like C/C++, it's easier to debug errors.<br/>
 ### Key Features of Python include:<br/>
@@ -28,15 +28,15 @@ Python is a high-level, interpreted, and general-purpose programming language kn
 This course contains the following topics:<br/>
 1. Data Types & Collection in Python<br/>
 2. Arrays <br/>
-3. Operators
-4. Loops
-5. Patterns
-6. File Handling
-7. Strings
-8. Classes (Inheritance + Method Overriding)
-9. Decorators
-10. Lambda
-11. Built-in Functions
-12. Generators
-13. Exception Handling
-14. Module
+3. Operators<br/>
+4. Loops<br/>
+5. Patterns<br/>
+6. File Handling<br/>
+7. Strings<br/>
+8. Classes (Inheritance + Method Overriding) <br/>
+9. Decorators <br/>
+10. Lambda <br/>
+11. Built-in Functions <br/>
+12. Generators <br/>
+13. Exception Handling <br/>
+14. Module <br/>
