@@ -1,6 +1,7 @@
 # Python-Programming-Practice
-Python Course from Edureka 
+Python Course from Edureka <br/>
 https://youtu.be/WGJJIrtnfpk
+----------------------------------------------------------------------------------
 <br/>
 Python is a high-level, interpreted, and general-purpose programming language known for its simplicity, readability, and versatility. It was created by Guido van Rossum in 1991. It has easy syntax (i.e., uses whitespace indentations instead of braces/parentheses to distinguish codes), and dynamic semantics (initializes variables as per requirement). It is called an interpreted language because it's compiled line-by-line, though it may be slower than other programming languages like C/C++, it's easier to debug errors.<br/>
 ### Key Features of Python include:<br/>
