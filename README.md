@@ -1,4 +1,4 @@
-# Python-Programming-Practice
+# Python-Learning
 ### Python Course from Edureka <br/>
 ----------------------------------------------------------------------------------
 Link: https://youtu.be/WGJJIrtnfpk<br/>
